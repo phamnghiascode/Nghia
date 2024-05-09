@@ -1,0 +1,6 @@
+@Nghia.API_HostAddress = http://localhost:5037
+
+GET {{Nghia.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
